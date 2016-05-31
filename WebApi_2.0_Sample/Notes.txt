@@ -1,0 +1,1 @@
+﻿-This app does not have any authentication mode selected (when you create a new project, you can configure the type of auth you want)
